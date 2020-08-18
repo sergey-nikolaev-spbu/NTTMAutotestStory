@@ -1,0 +1,3 @@
+2019-10-23 16:53:27.596 [Test worker] INFO  <clinit> - Initializing browser
+2019-10-23 16:53:47.835 [Test worker] ERROR initChromeBrouser - Driver initializing exception
+2019-10-23 16:54:07.845 [Test worker] ERROR initChromeBrouser - Driver initializing exception
